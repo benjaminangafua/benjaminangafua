@@ -1,5 +1,11 @@
 <h1>Benjamin A. Ngafua</h1>
 
+<p>I'm learning currently, but in my spare time, I enjoy drafting problems and taking up some fun projects from <a target="_blank" href="https://www.kit.kwagei.com)">KIT</a>. Having said that, don't expect too much from this account now; check back in 2024.
+</p>
+
+> See a little of my inspired projects [here](https://www.ngafua.com)
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE721E&random=false&width=435&lines=Fullstack+Developer;Emerging+Graphic+Designer;Two(2)+years+of+coding+experience)
 
 
@@ -18,3 +24,4 @@
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
 <img align="left" alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
           
+> Liberia, Monrovia
