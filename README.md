@@ -6,7 +6,7 @@
 > Upcoming portfolio [here](https://www.ngafua.com)
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8F5F&random=false&width=435&lines=%F0%9F%A5%B7+Junior+Software+Developer;New+Graphic+Designer+%F0%9F%AB%A3;%F0%9F%8E%86+Two(2)+years+of+coding+experience+%E2%8C%9A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3c99d4&random=false&width=435&lines=%F0%9F%A5%B7+Junior+Software+Developer;New+Graphic+Designer+%F0%9F%AB%A3;%F0%9F%8E%86+Two(2)+years+of+coding+experience+%E2%8C%9A)
 
 
 |![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminangafua&show_icons=true&theme=yeblu)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminangafua&layout=donut)|
