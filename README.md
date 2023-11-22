@@ -1,9 +1,7 @@
 <h1>Benjamin A. Ngafua</h1>
 
-<p>This user is currently learning! In my spare time, I enjoy drafting problems and taking up some fun projects from the <a target="_blank" href="https://www.kit.kwagei.com)">Kwagei Innovators Training(KIT)</a>. Having said that, don't expect too much from this account now; check back in 2024.
+<p>Junior Software Developer based in Liberia, open to remote jobs or contracts.
 </p>
-
-> Upcoming portfolio [here](https://www.ngafua.com)
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3c99d4&random=false&width=435&lines=%F0%9F%A5%B7+Junior+Software+Developer;New+Graphic+Designer+%F0%9F%AB%A3;%F0%9F%8E%86+Two(2)+years+of+coding+experience+%E2%8C%9A)
