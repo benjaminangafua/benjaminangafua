@@ -1,4 +1,4 @@
-<h1>Benjamin A. Ngafua</h1>
+<h3>Benjamin A. Ngafua</h3>
 
 <p>Junior Software Developer based in Liberia, open to remote jobs or contracts.
 </p>
