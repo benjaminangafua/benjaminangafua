@@ -1,4 +1,4 @@
-<h3>Benjamin A. Ngafua</h3>
+<b>Benjamin A. Ngafua</b>
 
 <p>Junior Software Developer based in Liberia, open to remote jobs or contracts.
 </p>
@@ -12,12 +12,12 @@
     <img src="https://github-readme-streak-stats-nu-amber.vercel.app?user=benjaminangafua&theme=yeblu" alt="GitHub Streak"/>
 </details>
 
-## Public Stats
+<b> Public Stats </b>
 
 |![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminangafua&show_icons=true&theme=yeblu)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminangafua&layout=donut)|
 |:------------:|:---------:|
 
-### Languages and Tools:
+<b> Languages and Tools:</b>
 
 <p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -28,6 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
 <img align="left" alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Bash" width="30px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" />
 </p>
 
 <br/>
