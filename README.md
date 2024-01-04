@@ -8,14 +8,17 @@
 
 
 <details>
-  <summary> <b>Overall Stats</b> </summary>
+  <summary> <b>Total Commit Stats</b> </summary>
     <img src="https://github-readme-streak-stats-nu-amber.vercel.app?user=benjaminangafua&theme=yeblu" alt="GitHub Streak"/>
 </details>
 
-<b> Public Stats </b>
 
-|![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminangafua&show_icons=true&theme=yeblu)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminangafua&layout=donut)|
+<details>
+  <summary><b> Public Commit Stats </b></summary>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=benjaminangafua&show_icons=true&theme=yeblu" alt="Public Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminangafua&layout=donut" alt="Top Langs"/> |
 |:------------:|:---------:|
+</details>
 
 <b> Languages and Tools:</b>
 
