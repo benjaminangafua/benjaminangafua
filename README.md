@@ -4,6 +4,7 @@
 </p>
 
 
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3c99d4&random=false&width=435&lines=%F0%9F%A5%B7+Junior+Software+Developer;New+Graphic+Designer;Three(3)+years+of+coding+experience++%E2%8C%9A)
 
 
@@ -18,6 +19,8 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=benjaminangafua&show_icons=true&theme=yeblu" alt="Public Stats"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminangafua&layout=donut" alt="Top Langs"/> |
 |:------------:|:---------:|
+
+![](https://komarev.com/ghpvc/?username=benjaminangafua&color=red)
 </details>
 
 <b> Languages and Tools:</b>
