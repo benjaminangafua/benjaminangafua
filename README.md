@@ -5,7 +5,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3c99d4&random=false&width=435&lines=%F0%9F%A5%B7+Junior+Software+Developer;Graphic+Designer;Four(4)+years+of+coding+experience+%E2%8C%9A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3c99d4&random=false&width=435&lines=%F0%9F%A5%B7+Software+Developer;Graphic+Designer;Four(4)+years+of+coding+experience+%E2%8C%9A)
 
 
 <details>
