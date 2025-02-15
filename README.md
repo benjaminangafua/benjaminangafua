@@ -1,6 +1,6 @@
-<b>Benjamin A. Ngafua</b>
+<b>I'm Benjamin A. Ngafua</b>
 
-<p>Junior Software Developer based in Liberia, open to remote jobs or contracts.
+<p>Software Developer in Liberia, open to remote jobs or contracts.
 </p>
 
 
