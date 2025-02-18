@@ -1,4 +1,4 @@
-<b>I'm Benjamin A. Ngafua</b>
+<b>Hello, I am Benjamin A. Ngafua.</b>
 
 <p>Software Developer in Liberia, open to remote jobs or contracts.
 </p>
@@ -36,8 +36,6 @@
 <img align="left" alt="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Bash" width="30px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" />
 </p>
-
-<br/>
 
 <hr>
 
