@@ -1,6 +1,6 @@
 <b>Hello, I am Benjamin A. Ngafua.</b>
 
-<p>Software Developer in Liberia, open to remote jobs or contracts.
+<p>A Software Developer in Liberia, open to remote jobs or contracts.
 </p>
 
 
